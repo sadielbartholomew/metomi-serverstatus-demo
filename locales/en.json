@@ -1,0 +1,24 @@
+{
+  "title": "(Metomi-Managed) Servers Status Page",
+  "description": "Status page for servers managed by team Metomi",
+  "links": {
+    "contact": "​mailto:metomi@metoffice.gov.uk",
+    "support": "https://github.com/metomi"
+  },
+  "systems": {
+    "items": {
+      "Cylc servers": {
+        "title": "Cylc Servers (XXXXXXX)"
+      },
+      "SPICE servers": {
+        "title": "SPICE Servers (XXXXXXX)"
+      },
+      "FCM Servers": {
+        "title": "FCM Servers (XXXXXXX)"
+      },
+      "Standalone servers": {
+        "title": "Stand-alone Linux servers (XXXXXXX)"
+      }
+    }
+  }
+}
